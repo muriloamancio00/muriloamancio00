@@ -1,7 +1,7 @@
 ## Olá Mundo !
 <div> 
-  <a href = "mailto:luccas_kayure@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luccas-kayure" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:muriloamancio0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/luccas-kayure](https://www.linkedin.com/in/murilo-amancio-da-silva-784926204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
@@ -9,14 +9,11 @@
 
 - 🔭 Desenvolvedor de projetos pequenos e individuais para empresas de pequeno porte
 - 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná (IFPR)
-- 💬 Fascinado por desenvolvimento em IOT (Internet Of Things) com ESP32 Lora e ESP8266 para soluções empresariais e domésticas
-- 📫 Alto conhecimendo em Redes de Computadores, tendo experiência trabalhando por 2 anos com T.I de um provedor de internet fibra óptica e via rádio
-
 
 <div align="center">
-  <a href="https://github.com/Kayure">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayure&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayure&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/muriloamancio00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloamancio00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloamancio00&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   </div>
