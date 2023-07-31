@@ -7,8 +7,33 @@
 
 
 
-- 🔭 Desenvolvedor de projetos pequenos e individuais para empresas de pequeno porte
-- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná (IFPR)
+Sobre
+
+●Backend Developer
+●End of Graduation 2023
+
+https://github.com/muriloamancio00
+
+experienced with:
+
+● IFPR, Municipal Fairs Project - 2 versions (PHP, Java)
+(Php-Laravel,JavaScript,UML,Mysql)
+
+● Courses
+2021 - Electronics, concepts and basic components (CodeIOT)
+2023 - Introduction to Database with MySQL (Udemy)
+2023 - JavaScript Algorithms and Data Structures (FreeCodeCamp)
+
+● Achievements
+2022 - MEU CANECO Award (outstanding in the development of local productive arrangements) - VIII Week of Teaching, Extension, Research and Innovation of the coast (SEME2PI), Federal Institute of Paraná - Campus Paranaguá.
+
+2023- Participation in the banner category, VIII Seminar on Extension, Teaching, Research and Innovation (SE²PIN), Federal Institute of Paraná - Campus Telêmaco Borba. (40:00 hours of activity)
+
+Main Skills
+Php ● JavaScript ● Java ● MySQL ● Object Oriented ● Back-End Development ●
+
+
+
 
 <div align="center">
   <a href="https://github.com/muriloamancio00">
