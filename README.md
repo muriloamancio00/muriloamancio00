@@ -23,6 +23,7 @@ experienced with:
 2023 - JavaScript Algorithms and Data Structures (FreeCodeCamp)
 
 ● Achievements
+
 2022 - MEU CANECO Award (outstanding in the development of local productive arrangements) - VIII Week of Teaching, Extension, Research and Innovation of the coast (SEME2PI), Federal Institute of Paraná - Campus Paranaguá.
 
 2023- Participation in the banner category, VIII Seminar on Extension, Teaching, Research and Innovation (SE²PIN), Federal Institute of Paraná - Campus Telêmaco Borba. (40:00 hours of activity)
