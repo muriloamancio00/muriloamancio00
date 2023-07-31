@@ -12,8 +12,6 @@ Sobre
 ●Backend Developer
 ●End of Graduation 2023
 
-https://github.com/muriloamancio00
-
 experienced with:
 
 ● IFPR, Municipal Fairs Project - 2 versions (PHP, Java)
