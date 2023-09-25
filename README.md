@@ -30,55 +30,83 @@ Meus hobbies incluem ouvir música, praticar esportes, principalmente vôlei, pe
 
 ## 💻 Skills <img src="https://i.giphy.com/media/jQ0G8ErXwiN5oKSSje/200w.webp" width="55">
 
-Sobre
+### Frameworks
+<!--  Laravel -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
+<!--  VueJs -->
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;
+<!--  Bootstrap -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 
-●Backend Developer
-●End of Graduation 2023
 
-experienced with:
+<!--  Npm -->
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+<!--  Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<!--  PostMan -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 
-● IFPR, Municipal Fairs Project - 2 versions (PHP, Java)
-(Php-Laravel,JavaScript,UML,Mysql)
+### Back-End
+<!--  PHP -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+<!--  C -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+<!--  JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
 
+### Front-End
+
+<!--  Html-5 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<!--  Css3 -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+
+### Base de Dados
+
+<!--  MySql -->
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+<!--  MySql Sever -->
+<img src="https://img.shields.io/badge/SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />&nbsp;&nbsp;
+
+### Mobile
+
+<!--  Flutter 3 -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+
+### Sistemas Operacionais
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+
+### Interesse
+<!--  NodeJs -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+<!--  Docker -->
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+<!--  Material-UI -->
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
+<!--  Python -->
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<!--  MongoDb -->
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+
+
+<details>
+  <summary>Experiências e Tecnologias</summary>
+
+## Educação
+
+- 📖 **Análise e Desenvolvimento de Sistemas**\
+📆 2019 - 2023\
+📍 **Instituto Federal do Paraná - Campus Paranaguá** - Paraná, Brasil
+
+## Cursos  
+   
 ● Courses
-2021 - Electronics, concepts and basic components (CodeIOT)
-2023 - Introduction to Database with MySQL (Udemy)
-2023 - JavaScript Algorithms and Data Structures (FreeCodeCamp)
-
-● Achievements
-
-2022 - MEU CANECO Award (outstanding in the development of local productive arrangements) - VIII Week of Teaching, Extension, Research and Innovation of the coast (SEME2PI), Federal Institute of Paraná - Campus Paranaguá.
-
-2023- Participation in the banner category, VIII Seminar on Extension, Teaching, Research and Innovation (SE²PIN), Federal Institute of Paraná - Campus Telêmaco Borba. (40:00 hours of activity)
-
-Main Skills
-Php ● JavaScript ● Java ● MySQL ● Object Oriented ● Back-End Development ●
+📆2021 - 🏅 Electronics, concepts and basic components (CodeIOT)
+📆2023 - 🏅 Introduction to Database with MySQL (Udemy)
+📆2023 - 🏅 JavaScript Algorithms and Data Structures (FreeCodeCamp)
 
 
+</details>
 
-
-<div align="center">
-  <a href="https://github.com/muriloamancio00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloamancio00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloamancio00&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  </div>
-<div style="display: inline_block"><br>
-    <!-- MySql -->
-  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <!--Java -->
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <!-- React -->
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <!--html5 -->
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <!--css3 -->
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!--Java -->
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg">
-    <!--Java -->
-
-  </div>
-  
-  ![Snake animation](https://github.com/muriloamancio00/muriloamancio00/blob/output/github-contribution-grid-snake.svg)
