@@ -14,9 +14,12 @@
         <img src="https://wakatime.com/badge/user/631a7927-fefb-4b98-81c3-2b2d0c306b3d.svg" alt="Total time coded since Jun 5 2023" align="center"/>
     </a>
     <img alt="Github followers" align="center" src="https://img.shields.io/github/followers/muriloamancio00?style=for-the-badge&color=bf0f47&logo=github&logoColor=white">
-</p>
+</p><br>
 
-<br>
+<a href="https://storyset.com/"><img src="./assets/img/devices.svg" width="400" align="right"></a>
+
+<div align="left">
+<br><br><br><br>
 
 Sou uma pessoa determinada e estou sempre em busca de aprender algo novo. Me apaixonei pela programação quando comecei a testar diferentes sistemas operacionais e a programar telefones ainda jovem! Mais tarde, na faculdade, adquiri conhecimentos em diversas linguagens de programação. Estudando, também obtive habilidades em inglês técnico, voltado para a área da programação.
 
