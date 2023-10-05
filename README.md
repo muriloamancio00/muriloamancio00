@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+
 # <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=30&duration=3000&pause=300&color=0CF744&background=B4FFF300&width=435&lines=Ol%C3%A1%2C+Eu+sou+Murilo+Amancio;Desenvolvedor+Back-End" alt="Typing SVG" /></a></p>
 
 <p align="center">
@@ -55,3 +57,5 @@ Meus hobbies incluem ouvir música, praticar esportes, principalmente vôlei, pe
 📆2023 - 🏅 JavaScript Algorithms and Data Structures (FreeCodeCamp)
 
 </details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
